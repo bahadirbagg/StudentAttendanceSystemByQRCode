@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ogretmen"
+    android:background="@drawable/bckgnd">
+
+
+    <TextView
+        android:textColor="#FFFFFF"
+        android:id="@+id/alinan_mesaj"
+        android:textStyle="bold"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textSize="23sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></TextView>
+
+
+
+    <Button
+        android:textColor="#040303"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginTop="210dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="90dp"
+        android:padding="30dp"
+        android:text="Scan Now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scanBtn"
+        android:backgroundTint="#66F9B0"
+         />
+
+    <Button
+        android:id="@+id/seeinfo"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginRight="50dp"
+        android:backgroundTint="#66F9B0"
+        android:padding="30dp"
+        android:text="See info"
+        android:textColor="#040303"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        ></Button>
+    <Button
+        android:id="@+id/seeinfo2"
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginRight="50dp"
+        android:backgroundTint="#66F9B0"
+        android:padding="30dp"
+        android:text="See info2"
+        android:textColor="#040303"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        ></Button>
+</RelativeLayout>
