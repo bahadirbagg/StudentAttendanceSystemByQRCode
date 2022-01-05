@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416151347439",
+    "firebase_url": "https://studentattendancedatabase-default-rtdb.firebaseio.com",
+    "project_id": "studentattendancedatabase",
+    "storage_bucket": "studentattendancedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416151347439:android:0f3a70c76ee12538f33b1a",
+        "android_client_info": {
+          "package_name": "com.example.proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416151347439-aa0mqee48pkrp030sv6v4q9jiei8eg7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOByNR4ps9ybs79vFbL_aaHpN410Efp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416151347439-aa0mqee48pkrp030sv6v4q9jiei8eg7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
